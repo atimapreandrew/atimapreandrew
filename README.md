@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="#" target="blank">
 Andrew Atimapre</a></h1>
-<h3 align="center">A passionate Software Developer (Reactjs)</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atimapreandrew&label=Profile%20views&color=0e75b6&style=flat" alt="Andrew Atimapre" /> </p>
 
