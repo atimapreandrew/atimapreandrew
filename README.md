@@ -44,7 +44,7 @@ Andrew Atimapre</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/dev_aandrew">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		
-      </div>
+
 
 </p>
 
