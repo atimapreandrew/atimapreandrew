@@ -10,15 +10,15 @@ Andrew Atimapre</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="#" target="blank"></a>
+<!-- - 🔭 I’m currently working in <a href="#" target="blank"></a> -->
 
 - 🌱 I’m currently Working on
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Typescript <a href="#" target="blank"></a>
+<!-- - 🌱 I’m currently learning Typescript <a href="#" target="blank"></a> -->
 
-- 📝 I regularly write articles on [https://dev.to/dev_aandrew](https://dev.to/dev_aandrew)
+<!-- - 📝 I regularly write articles on [https://dev.to/dev_aandrew](https://dev.to/dev_aandrew) -->
 
 - 💬 Ask me about **Reactjs**
 
@@ -44,10 +44,10 @@ Andrew Atimapre</a></h1>
 
 </p>
 
-### Blog posts
+<!-- ### Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
 
-- [](https://dev.to/dev_aandrew)
+<!-- - [](https://dev.to/dev_aandrew) -->
 
 <!-- BLOG-POST-LIST:END -->
