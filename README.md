@@ -12,7 +12,7 @@ Andrew Atimapre</a></h1>
 
 <!-- - 🔭 I’m currently working in <a href="#" target="blank"></a> -->
 
-- 🌱 I’m currently Working on
+- 🌱 I’m currently Working on 
 
 - 🤝 I’m available for freelancing.
 
@@ -20,7 +20,7 @@ Andrew Atimapre</a></h1>
 
 <!-- - 📝 I regularly write articles on [https://dev.to/dev_aandrew](https://dev.to/dev_aandrew) -->
 
-- 💬 Ask me about **Reactjs**
+- 💬 Ask me about **Reactjs, Tailwindcss & Nodejs**
 
 - 📫 How to reach me **atimaxandrew@gmail.com**
 
