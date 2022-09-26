@@ -22,7 +22,7 @@ Andrew Atimapre</a></h1>
 
 - 💬 Ask me about **Reactjs, Tailwindcss & Nodejs**
 
-- 📫 How to reach me **atimaxandrew@gmail.com**
+- 📫 How to reach me **devaandrew@icloud.com**
 
 - 📄 Know about my experiences <a href="https://github.com/atimapreandrew/blob/master/Resume.pdf" target="blank">Resume</a>
 <br/>
