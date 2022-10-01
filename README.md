@@ -2,27 +2,17 @@
 Andrew Atimapre</a></h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atimapreandrew&label=Profile%20views&color=0e75b6&style=flat" alt="Andrew Atimapre" /> </p>
-
-<p align="left"> <a href="https://twitter.com/dev_aandrew" target="blank"><img src="https://img.shields.io/twitter/follow/dev_aandrew?logo=twitter&style=for-the-badge" alt="Andrew Atimapre" /></a> </p>
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<!-- - 🔭 I’m currently working in <a href="#" target="blank"></a> -->
-
-- 🌱 I’m currently Working on 
+- 🌱 I’m currently learning Typescript <a href="#" target="blank"></a>
 
 - 🤝 I’m available for freelancing.
 
-<!-- - 🌱 I’m currently learning Typescript <a href="#" target="blank"></a> -->
-
 <!-- - 📝 I regularly write articles on [https://dev.to/dev_aandrew](https://dev.to/dev_aandrew) -->
 
-- 💬 Ask me about **Reactjs, Tailwindcss & Nodejs**
-
-- 📫 How to reach me **devaandrew@icloud.com**
+- 💬 Ask me about **Javascript, Reactjs, Tailwindcss & Nodejs**
 
 - 📄 Know about my experiences <a href="https://github.com/atimapreandrew/blob/master/Resume.pdf" target="blank">Resume</a>
 <br/>
@@ -43,6 +33,33 @@ Andrew Atimapre</a></h1>
 
 
 </p>
+
+<h2> My Tools </h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
+<!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40"/> -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="JQuery" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" ait="React" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="NodeJS" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJS" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Netlify" height="40" width="40"/>
+               
+</p>
+
+<h2> My Stats </h2>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atimapreandrew&" alt="Eniola-Codes" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=atimapreandrew&show_icons=true&hide_border=true" alt="Stats" />
+
 
 <!-- ### Blog posts -->
 
