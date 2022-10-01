@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="#" target="blank">
-Andrew Atimapre</a></h1>
+<h1 align="center">Hi 👋, I'm Andrew Atimapre</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
 <a target="_blank" align="center">
