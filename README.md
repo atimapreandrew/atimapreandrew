@@ -57,9 +57,7 @@
 <h2> My Stats </h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atimapreandrew&" alt="Eniola-Codes" /></p>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atimapreandrew) -->
-
-<a href="https://app.daily.dev/devaandrew"><img src="https://api.daily.dev/devcards/1eb0ba98c6df4df0abb351a59cf61dd5.png?r=zb6" width="400" alt="Andrew Atimapre's Dev Card"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atimapreandrew)
 
 
 <!-- ### Blog posts -->
