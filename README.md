@@ -22,7 +22,7 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/andrew-atimapre/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/dev_aandrew">
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/aandrew_dev">
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/aandrew.dev">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
