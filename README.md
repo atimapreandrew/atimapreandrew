@@ -23,7 +23,7 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/aandrew_dev">
 					<img src="https://icons8.com/icon/Sf2NuZRCVuaE/dev"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/aandrew.dev">
+        <a style="margin-left: 10px;" target="_blank" href="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/aandrew_dev">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
