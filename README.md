@@ -13,7 +13,6 @@
 
 <!-- - 📝 I regularly write articles on [https://dev.to/dev_aandrew](https://dev.to/dev_aandrew) -->
 
-- 📄 Know about my experiences <a href="https://github.com/atimapreandrew/blob/master/Resume.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -23,7 +22,7 @@
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/andrew-atimapre/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/aandrew_dev">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+					<img src="https://icons8.com/icon/Sf2NuZRCVuaE/dev"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/aandrew.dev">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/aandrew_dev">
