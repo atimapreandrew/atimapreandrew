@@ -24,9 +24,9 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/dev_aandrew">
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/dev_aandrew">
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/aandrew.dev">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/dev_aandrew">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/aandrew_dev">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		
 
