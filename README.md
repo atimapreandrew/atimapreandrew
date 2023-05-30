@@ -50,5 +50,3 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=atimapreandrew&show_icons=true&hide_border=true" alt="Stats" /></p>
 
-<br> 
-<p > Thanks for visiting my Github Profile❤️ </p>
