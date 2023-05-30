@@ -1,6 +1,6 @@
 
 <h2>Hey👋, I'm Andrew Atimapre</h2>
-<p>I'm a FullStack Web Developer with experience building high-quality, modern, mobile-first, reliable, and scalable websites and web apps.
+<p>I'm a FullStack Web Developer with experience building modern, reliable, and scalable websites and web apps.
 </p>
 
 
