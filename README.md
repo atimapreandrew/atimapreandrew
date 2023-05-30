@@ -1,66 +1,55 @@
-<h1 align="center">Hi 👋, I'm Andrew Atimapre</h1>
-<h3 align="center">A passionate Software Developer</h3>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 💬 Ask me about **Javascript, Reactjs, Tailwindcss & Nodejs**
-
-- 🌱 I’m currently learning Typescript <a href="#" target="blank"></a>
-
-- 🤝 I’m available for freelancing.
-
-<!-- - 📝 I regularly write articles on [https://dev.to/dev_aandrew](https://dev.to/dev_aandrew) -->
-
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/andrew-atimapre/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/aandrew_dev">
-					<img src="https://img.icons8.com/windows/32/000000/dev.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/aandrew_dev">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		
+<h2>Hey👋, I'm Andrew Atimapre</h2>
+<p>I'm a FullStack Web Developer</p>
 
 
-</p>
+
+<h2>About Me</h2>
+
+<ul>
+  <li>✨ Turning ideas into real life products. </li> 
+  <li>👨‍💻 I work with <strong>Javascript, ReactJs & NextJs</strong>.</li>
+  <li>🔭 I’m currently learning <strong>Typescript</strong>. </li>
+  <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
+  <li>🤝 I am open to collaborations on project and ideas</li>
+</ul>
+
+<h2>Reach me</h3>
+<p><a href="https://www.linkedin.com/in/andrew-atimapre/"><img src="https://img.shields.io/badge/-Andrew%20Atimapre%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/andrew-atimapre/" alt="LinkedIn Badge"></a> 
+  <a href="https://twitter.com/aandrew_dev/"><img src="https://img.shields.io/badge/-devaandrew-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
+  <a href="mailto:eniolacodes1@gmail.com"><img src="https://img.shields.io/badge/-Eniola%20Codes-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
+
 
 <h2> My Tools </h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" width="40" />
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" width="40"/>
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40"/> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40"/> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" width="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="JQuery" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" ait="React" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="40" width="40"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" height="40" width="40" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="NodeJS" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJS" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />      
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="40" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" height="40" width="40"/>
-               
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"  alt="CodePen" height="40" width="40"/>
+        
+  
 </p>
 
+
+
 <h2> My Stats </h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atimapreandrew&" alt="Eniola-Codes" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atimapreandrew)
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atimapreandrew&" alt="devaandrew" /></p>
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=atimapreandrew&show_icons=true&hide_border=true" alt="Stats" /></p>
 
-<!-- ### Blog posts -->
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- - [](https://dev.to/dev_aandrew) -->
-
-<!-- BLOG-POST-LIST:END -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atimapreandrew&show_icons=true&locale=en&layout=compact" alt="devaandrew" /></p>
+ 
+<p > Thanks for visiting my Github Profile❤️ </p>
