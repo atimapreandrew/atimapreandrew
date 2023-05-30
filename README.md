@@ -48,8 +48,5 @@
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atimapreandrew&" alt="devaandrew" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=atimapreandrew&show_icons=true&theme=transparent" alt="Stats" /></p>
-
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=atimapreandrew&show_icons=true&hide_border=true" alt="Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=atimapreandrew&rank_icon=github" alt="Stats" /></p>
 
