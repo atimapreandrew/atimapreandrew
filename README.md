@@ -17,7 +17,7 @@
 <h2>Reach me</h3>
 <p><a href="https://www.linkedin.com/in/andrew-atimapre/"><img src="https://img.shields.io/badge/-Andrew%20Atimapre%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/andrew-atimapre/" alt="LinkedIn Badge"></a> 
   <a href="https://twitter.com/aandrew_dev/"><img src="https://img.shields.io/badge/-devaandrew-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-  <a href="mailto:eniolacodes1@gmail.com"><img src="https://img.shields.io/badge/-Eniola%20Codes-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
+  <a href="mailto:devaandrew@icloud.com"><img src="https://img.shields.io/badge/-Andrew%20Atimapre-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:devaandrew@icloud.com" alt="Gmail Badge"></a></p>
 
 
 <h2> My Tools </h2>
@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"  alt="CodePen" height="40" width="40"/>
+     
         
   
 </p>
@@ -50,6 +50,5 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=atimapreandrew&show_icons=true&hide_border=true" alt="Stats" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atimapreandrew&show_icons=true&locale=en&layout=compact" alt="devaandrew" /></p>
- 
+<br> 
 <p > Thanks for visiting my Github Profile❤️ </p>
