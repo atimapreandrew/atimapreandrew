@@ -11,7 +11,7 @@
   <li>✨ Turning ideas into real life products. </li> 
   <li>👨‍💻 I work with <strong>Javascript, ReactJs & NextJs</strong>.</li>
   <li>🔭 I’m currently learning <strong>Typescript</strong>. </li>
-  <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
+  <li>💬 Ping me about anything <strong>Software Development</strong>.</li>
   <li>🤝 I am open to collaborations on project and ideas</li>
 </ul>
 
