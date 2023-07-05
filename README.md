@@ -1,6 +1,6 @@
 
 <h2>Hey👋, I'm Andrew Atimapre</h2>
-<p>I'm a FullStack Web Developer with experience building modern, reliable, and scalable websites and web apps.
+<p>Results driven Software Developer with a track record of delivering high quality software products. Strong problem solving skills and a collaborative mindset for successful project execution.
 </p>
 
 
@@ -8,11 +8,10 @@
 <h2>About Me</h2>
 
 <ul>
-  <li>✨ Turning ideas into real life products. </li> 
-  <li>👨‍💻 I work with <strong>Javascript, ReactJs & NextJs</strong>.</li>
+  <li>✨ Turning ideas into real-life products. </li> 
+  <li>👨‍💻 I work with <strong>Javascript, ReactJs, NextJs, NodeJs/ExpressJs, and more</strong>.</li>
   <li>🔭 I’m currently learning <strong>Typescript</strong>. </li>
-  <li>💬 Ping me about anything <strong>Software Development</strong>.</li>
-  <li>🤝 I am open to collaborations on project and ideas</li>
+  <li>🤝 I am open to collaborations on projects and ideas</li>
 </ul>
 
 <h2>Reach me</h3>
