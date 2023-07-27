@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/github/followers/atimapreandrew?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://twitter.com/aandrew_dev">
-    <img src="https://img.shields.io/badge/follow-0077B5?logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/aandrew_dev?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/andrew-atimapre/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
