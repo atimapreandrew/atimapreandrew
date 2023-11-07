@@ -15,9 +15,6 @@
 </ul><br />
 
 <p align="center">
-  <a href="https://github.com/atimapreandrew?tab=followers">
-    <img src="https://img.shields.io/github/followers/atimapreandrew?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
   <a href="https://twitter.com/aandrew_dev">
     <img src="https://img.shields.io/twitter/follow/aandrew_dev?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
