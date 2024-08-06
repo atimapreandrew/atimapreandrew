@@ -1,4 +1,4 @@
 
-<h2>Hey👋, I'm Andrew Atimapre</h2>
-<p>Results driven Software Engineer with a track record of delivering high quality software products. Strong problem solving skills and a collaborative mindset for successful project execution.
+<h2>Hello! I'm Andrew Atimapre</h2>
+<p> A passionate software developer with experience building robust and scalable applications. I enjoy solving complex problems and am always eager to learn new technologies.
 </p>
