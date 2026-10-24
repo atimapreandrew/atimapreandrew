@@ -1,8 +1,5 @@
 
 <h2>Hi, I’m Andrew</h2>
 <p> 
-  Software Engineer combining creativity with problem-solving to build solutions that stand out.
-</p>
-<p>
-  Lately, I’ve been exploring cloud computing and cybersecurity.
+  Software Engineer turning bold ideas into useful products, simplifying the complex, and building what's next in software and cloud.
 </p>
